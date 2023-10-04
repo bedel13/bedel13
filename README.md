@@ -18,4 +18,4 @@ Let's connect and collaborate on exciting projects! Feel free to explore my repo
 
 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/bedel-alimov/)
-- [Twitter]([https://twitter.com/yourhandle](https://t.me/ppoint2023)https://t.me/ppoint2023)
+- [Telegram](https://twitter.com/yourhandle](https://t.me/ppoint2023)https://t.me/ppoint2023)
