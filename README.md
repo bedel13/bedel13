@@ -18,4 +18,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white">  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 </p>
+[![GitHub top language](https://img.shields.io/github/languages/top/bedel13)](https://github.com/bedel13)
 
