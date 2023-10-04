@@ -1,6 +1,5 @@
-![Header](./1.png)
 <p align="center">
-  <img src="https://your-image-url.com/awesome-image.png" alt="Header Image">
+  <img src="./1.png" alt="Header Image">
 </p>
 
 <h1 align="center">Hi there! I am Bedel</h1>
@@ -40,7 +39,7 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&theme=dark" alt="Your GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=bedel13&show_icons=true&hide_title=true&count_private=true&theme=dark" alt="Your GitHub Stats">
 </p>
 
 <p align="center">
