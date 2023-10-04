@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white">  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedel13&layout=compact" alt="Top Languages" style="background-color: #0d1117; border-radius: 8px; padding: 10px;"/>
+<p align="center" style="background-color: #0d1117; border-radius: 8px; padding: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedel13&layout=compact" alt="Top Languages" />
 </p>
 
